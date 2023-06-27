@@ -20,7 +20,7 @@ Remember, bug reports are created in the hope that others with the same problem 
 <a name="core-development-discussion"></a>
 ## Core Development Discussion
 
-Discussion regarding bugs, new features, and implementation of existing features takes place in issues on the GitHub repo [here](https://github.com/Superbalist/flysystem-google-storage/issues).
+Discussion regarding bugs, new features, and implementation of existing features takes place in issues on the GitHub repo [here](https://github.com/Improwised/flysystem-google-storage/issues).
 
 <a name="which-branch"></a>
 ## Which Branch?

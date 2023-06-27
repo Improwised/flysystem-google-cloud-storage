@@ -1,11 +1,11 @@
 {
-  "name": "superbalist/flysystem-google-storage",
-  "description": "Flysystem adapter for Google Cloud Storage",
+  "name": "improwised/flysystem-google-storage",
+  "description": "Improwised Flysystem adapter for Google Cloud Storage",
   "license": "MIT",
   "authors": [
     {
-      "name": "Superbalist.com a division of Takealot Online (Pty) Ltd",
-      "email": "info@superbalist.com"
+      "name": "Improwised.com a division of Takealot Online (Pty) Ltd",
+      "email": "info@improwised.com"
     }
   ],
   "require": {
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Superbalist\\Flysystem\\GoogleStorage\\": "src/"
+      "Improwised\\Flysystem\\GoogleStorage\\": "src/"
     }
   },
   "config": {
