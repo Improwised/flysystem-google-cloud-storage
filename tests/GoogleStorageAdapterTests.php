@@ -1,6 +1,6 @@
 <?php
 
-namespace Superbalist\Flysystem\GoogleStorage\Test;
+namespace Improwised\Flysystem\GoogleStorage\Test;
 
 use Google\Cloud\Storage\Acl;
 use Google\Cloud\Storage\Bucket;
